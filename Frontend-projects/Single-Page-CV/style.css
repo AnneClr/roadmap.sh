@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "consolas", sans-serif;
+}
+
+body {
+  width: 60%;
+  margin: 3rem auto;
+  min-height: 100vh;
+}
+
+hr {
+  border-color: black;
+}
+h1 {
+  margin: 1rem auto;
+}
+section {
+  margin-bottom: 2.5rem;
+}
+h3 {
+  color: #629d6c;
+  margin: 0.6rem auto;
+}
+h4 {
+  color: #2a77bf;
+}
+h5 {
+  margin-bottom: 0.8rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.experience:first-of-type {
+  margin-bottom: 1.5rem;
+}
+.skills {
+  margin-top: 0.8rem;
+}
