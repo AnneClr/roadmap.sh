@@ -35,6 +35,9 @@ header {
   justify-content: space-between;
   padding: 1.5rem 2.5rem;
   width: 100%;
+  img {
+    margin: auto 1rem;
+  }
 }
 nav {
   ul {
@@ -115,6 +118,10 @@ main {
   }
 }
 .contact {
+  h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
   .contact-form {
     background-color: var(--color-complementary);
     padding: 2rem 10rem;
@@ -124,7 +131,6 @@ main {
     width: 60%;
     margin: auto;
     gap: 1rem;
-
     input,
     textarea {
       padding: 1rem;
